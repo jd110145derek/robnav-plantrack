@@ -13,3 +13,6 @@
   0 : Pure_pursuit / 1 : Staley
   plan_type
   0 : Astar / 1 : RRT Star
+  
+## Demo
+https://www.youtube.com/watch?v=-U1PNls9wuY
